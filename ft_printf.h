@@ -16,7 +16,6 @@
 
 # include <stdarg.h>
 # include <unistd.h>
-# include <stdio.h>
 
 int	ft_printf(const char *last, ...);
 int	ft_check_format2(char form, va_list ap);
